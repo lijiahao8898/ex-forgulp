@@ -1,0 +1,21 @@
+{
+  "name": "jiahao",
+  "version": "1.0.0",
+  "description": "forgulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rev": "^7.1.0",
+    "gulp-rev-collector": "^1.0.5"
+  },
+  "devDependencies": {
+    "gulp-inject": "^4.1.0",
+    "gulp-rev-append": "^0.1.6",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "license": "ISC"
+}
