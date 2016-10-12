@@ -4,7 +4,7 @@
 ;(function () {
     var main = {
         init: function(){
-            alert(14)
+            //$('html').append('<script class="trans" type="text/javascript" charset="utf-8" src="http://gytk5.kuaishang.cn/bs/ks.j?cI=770695&fI=73906"></script>');
         }
     };
     // run

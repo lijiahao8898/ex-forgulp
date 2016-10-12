@@ -4,7 +4,6 @@
 ;(function () {
     var main = {
         init: function(){
-            alert(21)
         }
     };
     // run
