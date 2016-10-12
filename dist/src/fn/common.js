@@ -1,1 +1,0 @@
-!function(){var n={init:function(){alert(14)}};$(function(){n.init()})}();
