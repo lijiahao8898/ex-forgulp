@@ -1,1 +1,1 @@
-!function(){var n={init:function(){alert(21)}};$(function(){n.init()})}();
+!function(){var n={init:function(){alert(21)}};$(function(){n.init(``)})}();
